@@ -9,7 +9,6 @@
 <p>
   <a href="https://overcraft.dev"><b>overcraft.dev</b></a> &nbsp;·&nbsp;
   <a href="https://overterm.overcraft.dev"><b>Overterm</b></a> &nbsp;·&nbsp;
-  <a href="https://overcraft.dev/#overlook"><b>Overlook</b></a> &nbsp;·&nbsp;
   <a href="https://overcraft.dev/#contribute"><b>Contribute</b></a>
 </p>
 
@@ -34,12 +33,6 @@
 <sub>A macOS terminal for running many AI coding agents at once. Every tab says whether its agent is working, done, failed or waiting on you; an Agent Inbox collects the ones that need a decision; New Task makes a worktree, a branch and an agent in one step. Built on libghostty — your Ghostty config applies as is.</sub><br/><br/>
 <code>brew install --cask overcraft-hq/tap/overterm</code><br/><br/>
 <a href="https://overterm.overcraft.dev"><b>Website</b></a> · <a href="https://github.com/Overcraft-hq/overterm"><b>Code</b></a> · <a href="https://github.com/Overcraft-hq/overterm/releases/latest"><b>Download</b></a>
-</td>
-<td align="center" valign="top" width="50%">
-<br/><br/><br/><br/><br/>
-<b>Overlook</b> &nbsp;<img src="https://img.shields.io/badge/in%20development-Mac%20·%20iPhone%20·%20iPad-f0a020" alt="In development"><br/>
-<sub>An open-source, local-first mail agent. Your mail is indexed on your device, so search is instant and works offline. Labels and notes sync through your own iCloud — no servers of ours in between. It drafts replies and follow-ups, and by default nothing is sent until you approve it.</sub><br/><br/>
-<a href="https://overcraft.dev/#overlook"><b>Follow the build</b></a>
 </td>
 </tr>
 </table>
